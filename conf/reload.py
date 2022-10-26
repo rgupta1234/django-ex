@@ -1,5 +1,5 @@
 """
-You can set APP_CONFIG to point to this file to enable automatic reloading of
+You can setd APP_CONFIG to point to this file to enable automatic reloading of
 modules.
 """
 
